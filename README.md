@@ -23,7 +23,7 @@ This project includes a `src/components` folder containing several React compone
 - [ ] Clone your OWN fork of the repository using your terminal.
 - [ ] CD into the project base directory.
 - [ ] Download project dependencies by running `npm install`.
-- [ ] Start up the app using `npm start`.
+- [ ] Start up the app using `npm start`..
 - [ ] Optionally run tests using `npm test`. (The app must be running on `http://localhost:1234`)
 - [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
